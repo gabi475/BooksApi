@@ -1,6 +1,7 @@
 This project is about sharing books and books content on the web.
 
 Prequisites:
+SQL Server
 
 In order to run this project, please follow these steps:
 
